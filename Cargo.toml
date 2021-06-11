@@ -11,7 +11,7 @@ edition = "2018"
 
 [dependencies]
 fixedbitset = "0.3"
-ndarray = "0.14"
+ndarray = "0.15.2"
 
 [dev-dependencies]
 criterion = "0.3"
